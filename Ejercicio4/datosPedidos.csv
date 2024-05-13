@@ -1,0 +1,4 @@
+patente; id; comida; tiempo_estimado; tiempo_real; precio
+E546; 123456; Pollo; 30; 50; 5000
+A367; 1234567; Pescado; 40; 70; 6000
+A367; 12345678; Pollo; 40; 70; 5000
